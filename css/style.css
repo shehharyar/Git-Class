@@ -1,0 +1,262 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.apple-logo:hover {
+	cursor: pointer;
+	color: lightgrey;
+}
+
+.nav li:hover {
+	cursor: pointer;
+}
+
+.nav {
+	background-color: rgb(51, 51, 51);
+	padding: 1px;
+	padding: 0.1px;
+	margin-top: -8px;
+
+
+	margin-left: -9px;
+}
+
+.nav ul {
+	text-align: center;
+}
+.nav a {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.822);
+}
+.nav a:hover {
+	color: rgba(255, 255, 255, 0.966);
+}
+.nav li {
+	display: inline;
+
+	padding: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+header > h3 {
+	text-align: center;
+	font-size: smaller;
+	margin-top: 0px;
+	padding: 15px;
+	margin-left: -9px;
+	background-color: rgb(0, 113, 227);
+}
+
+header h3 a {
+	text-decoration: none;
+	color: white;
+}
+
+.after-head {
+	text-align: center;
+	background-color: rgb(245, 245, 247);
+	padding: 15px;
+	margin-top: -12px;
+	margin-left: -6px;
+}
+
+.main-section {
+	text-align: center;
+	background-color: rgb(251, 251, 253);
+}
+
+.main-section h1,
+.advertise h1 {
+	font-size: 54px;
+	font-weight: 600;
+}
+
+.main-section h3,
+.advertise h3 {
+	margin-top: -28px;
+	font-weight: 500;
+}
+
+.main-section p {
+	color: rgb(148, 148, 148);
+	line-height: 23px;
+	font-weight: 300;
+}
+.anchor {
+	padding-right: 50px;
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+	font-size: large;
+	font-weight: 500;
+}
+.anchor-2 {
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+	font-size: large;
+	font-weight: 500;
+}
+.main-section > img {
+	margin-top: 25px;
+}
+
+.advertise {
+	background-color: black;
+	color: white;
+	text-align: center;
+	align-items: center;
+	margin-left: -8px;
+	margin-top: -38px;
+}
+
+.advertise p {
+	color: rgb(148, 148, 148);
+	line-height: 23px;
+	font-weight: 300;
+}
+.for-p {
+	padding-top: 60px;
+}
+
+.img-2 {
+	margin-left: 330px;
+}
+
+.ipad {
+	background-color: rgb(251, 251, 253);
+	align-items: center;
+	text-align: center;
+	margin-top: -35px;
+}
+
+.ipad h1 {
+	padding-top: 50px;
+	font-size: 54px;
+	font-weight: 600;
+}
+
+.ipad h3 {
+	margin-top: -28px;
+	font-weight: 500;
+	font-size: x-large;
+}
+
+.ipad img {
+	margin-top: 50px;
+}
+
+.anchorr {
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+	font-size: large;
+	font-weight: 500;
+}
+
+span {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.part-1,
+.part-2 {
+	width: 49%;
+	background-color: rgb(251, 251, 253);
+	text-align: center;
+}
+
+.part-1 p {
+	color: brown;
+}
+
+.part-1 h3 {
+	color: rgb(119, 119, 119);
+}
+
+.part-2 h1 {
+	padding-top: 71px;
+}
+
+.anchorrr {
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+	font-size: large;
+	padding-right: 25px;
+	font-weight: 500;
+}
+
+.part-2 p {
+	line-height: 24px;
+}
+
+.part-2 img {
+	margin-top: 50px;
+}
+
+footer {
+	background-color: rgb(245, 245, 247);
+	margin-top: -15px;
+}
+
+.footer {
+	align-items: center;
+	text-align: justify;
+	width: 1200px;
+}
+
+.footer p {
+	text-align: justify;
+	margin-left: 155px;
+	padding-top: 30px;
+	font-size: smaller;
+	color: silver;
+}
+
+hr {
+	width: 1005px;
+	margin-left: 161px;
+}
+
+.lfooter {
+	width: 1200px;
+	margin-left: 120px;
+	font-size: smaller;
+	margin-top: -45px;
+}
+.lfooter ul {
+	display: inline-block;
+	vertical-align: top;
+}
+
+strong {
+	color: rgb(69, 69, 71);
+}
+
+.lfooter li {
+	list-style-type: none;
+	color: rgb(171, 171, 175);
+	padding: 10px;
+}
+.lfooter p {
+	margin-left: 58px;
+	font-size: small;
+	color: rgb(171, 171, 175);
+}
+.lfooter a {
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+}
+
+.lfooter hr {
+	width: 1000px;
+	margin-left: 50px;
+	color: rgb(102, 163, 224);
+}
+.lp {
+	margin-top: -27px;
+	padding-bottom: 20px;
+}
+
+footer li:hover {
+	cursor: pointer;
+	text-decoration: underline;
+	color: rgb(149, 149, 151);
+}
